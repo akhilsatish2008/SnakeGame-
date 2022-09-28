@@ -3,7 +3,8 @@ In this project I created a game where the purpose is for the snake to eat as ma
 
 **Link to project:** https://snakeneedsloot.netlify.app
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt text](https://github.com/akhilsatish2008/SnakeGame-/blob/main/snakegamepic.PNG)
+
 
 ## How It's Made:
 

@@ -8,7 +8,7 @@ In this project I created a game where the purpose is for the snake to eat as ma
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 I used Html and css for the display and JS for all my game logic. First I had to create a new board, a snake and the blocks required for its "food" that will be randomly generated on the board and finally the movement of the snake. I used the arrow keys and defined the movements based on my the clicks and also the boundries of the board. From their I just had to create a scoreboard and a function that would make the snake grow the more blocks it ate.
 
